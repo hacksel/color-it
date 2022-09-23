@@ -1,0 +1,4 @@
+ColorItTest.class
+parser/CsvColorMapParserTest.class
+colormap/ColorMapTest.class
+analyzer/MapExplorerTest.class

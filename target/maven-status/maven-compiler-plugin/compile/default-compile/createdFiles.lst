@@ -1,0 +1,11 @@
+analyzer/explorer/SwitchColorExplorer.class
+analyzer/MapExplorer.class
+analyzer/ExplorerDecision.class
+ColorIt.class
+colormap/ColorMap$1.class
+colormap/ColorMap$ColorMapBuilder.class
+colormap/ColorMap$DIRECTIONS.class
+colormap/ColorMap.class
+analyzer/explorer/SameColorExplorer.class
+utils/ColorMapUtils.class
+parser/CsvColorMapParser.class
